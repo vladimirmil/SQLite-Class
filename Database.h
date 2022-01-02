@@ -48,9 +48,9 @@ public:
 	*
 	*	table	table name and description
 	*			"TABLENAME("
-	*			"DATE			CHAR(20)	PRIMARY KEY NOT NULL,"
-	*			"ID				INT			UNIQUE		NOT NULL,"
-	*			"TEMPERATURE	REAL		NOT NULL);"
+	*			"DATE		CHAR(20)	PRIMARY KEY 	NOT NULL,"
+	*			"ID		INT		UNIQUE		NOT NULL,"
+	*			"TEMPERATURE	REAL				NOT NULL);"
 	*
 	*************************************************************************************/
 
