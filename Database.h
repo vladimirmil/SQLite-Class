@@ -33,7 +33,7 @@ public:
 	/************************************************************************************
 	*	Creates a database
 	*
-	*	s 		database location
+	*	s 	database location
 	*			"C:\Users\USER\Documents\Database\nameofdatabase.db"
 	*
 	*************************************************************************************/
@@ -43,7 +43,7 @@ public:
 	/************************************************************************************
 	*	Creates a table
 	*
-	*	s 		database location
+	*	s 	database location
 	*			"C:\Users\USER\Documents\Database\nameofdatabase.db"
 	*
 	*	table	table name and description
@@ -59,7 +59,7 @@ public:
 	/************************************************************************************
 	*	Deletes a table
 	*
-	*	s 		database location
+	*	s 	database location
 	*			"C:\Users\USER\Documents\Database\nameofdatabase.db"
 	*
 	*	table	table name
@@ -72,7 +72,7 @@ public:
 	/************************************************************************************
 	*	Inserts a record into a table
 	*
-	*	s 		database location 
+	*	s 	database location 
 	*			"C:\Users\USER\Documents\Database\nameofdatabase.db"
 	*
 	*	table	table name 
@@ -88,7 +88,7 @@ public:
 	/************************************************************************************
 	*	Deletes a record from a table
 	*
-	*	s 		database location, 
+	*	s 	database location, 
 	*			"C:\Users\USER\Documents\Database\nameofdatabase.db"
 	*
 	*	table	table name, 
@@ -105,7 +105,7 @@ public:
 	/************************************************************************************
 	*	Selects a record from a table
 	*
-	*	s 		database location
+	*	s 	database location
 	*			"C:\Users\USER\Documents\Database\nameofdatabase.db"
 	*
 	*	data	vector where data will be stored at
@@ -125,7 +125,7 @@ public:
 	/************************************************************************************
 	*	Returns number of records in a table, -1 if table is nonexistent
 	*
-	*	s 		database location
+	*	s 	database location
 	*			"C:\Users\USER\Documents\Database\nameofdatabase.db"
 	*
 	*	table	table name
