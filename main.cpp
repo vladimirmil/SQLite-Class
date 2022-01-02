@@ -9,9 +9,9 @@ int main()
 	std::vector<std::pair<std::string, std::string>> data;
 	const char* s = "C:/Users/[USER]/Documents/testdatabase.db";
 	std::string table = "TEST("
-						"DATE			CHAR(20)	PRIMARY KEY NOT NULL,"
-						"ID				INT			UNIQUE		NOT NULL,"
-						"TEMPERATURE	REAL		NOT NULL);";
+			    "DATE		CHAR(20)	PRIMARY KEY 	NOT NULL,"
+			    "ID			INT		UNIQUE		NOT NULL,"
+			    "TEMPERATURE	REAL				NOT NULL);";
 
 	db.createDB(s);
 
