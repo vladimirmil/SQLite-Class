@@ -108,7 +108,7 @@ public:
 	*	s 	database location
 	*			"C:\Users\USER\Documents\Database\nameofdatabase.db"
 	*
-	*	data	vector where data will be stored at
+	*	data	vector in which data will be stored in
 	*			data
 	*
 	*	table	table name
